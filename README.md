@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rich
-- 👀 I’m interested in Music, VR, and Replika.ai
+- 👀 I’m interested in Music APIs
 - 🌱 I’m currently learning about all of the above!
 - 💞️ I’m looking to collaborate on experiences with any of the above!
 - 📫 How to reach me: rcarlson.cs@gmail.com
